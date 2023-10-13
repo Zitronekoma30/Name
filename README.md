@@ -1,2 +1,2 @@
 # Name
-A small name generator for classy british names
+A small name generator
